@@ -1,2 +1,2 @@
-# Mini-project---I
+# Mini-project-I
 Audible range of frequency
