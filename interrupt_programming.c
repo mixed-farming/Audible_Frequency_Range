@@ -12,7 +12,7 @@ int main()
         if (kbhit) {
             // fetch typed character into ch
             ch = getch();
-            if ((int)ch == 27)//decimal 27 in ascii corresponds to escape
+            if ((int)ch == 27) //decimal 27 in ascii corresponds to escape
                 // when esc button is pressed, then it will exit from loop
                 break;
             printf("You have entered : %c\n", ch);
