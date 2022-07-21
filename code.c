@@ -16,7 +16,7 @@ void delay(int number_of_seconds)
 }
 
 int main(){
-    int freq=150,dur=1000;
+    int freq=10,dur=1000;
     char ch;
     printf("Press any key if you start hearing the sound wave.");
     while(1)
