@@ -1,6 +1,6 @@
 # Mini-project-I
 
-<img width="48%" src="https://i.ytimg.com/vi/N9DhxVQi2Ag/maxresdefault.jpg" alt="Human audible range" />
+<img width="75%" src="https://i.ytimg.com/vi/N9DhxVQi2Ag/maxresdefault.jpg" alt="Human audible range" />
 
 Audible range of frequency :
 
